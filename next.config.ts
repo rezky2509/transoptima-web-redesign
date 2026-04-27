@@ -1,10 +1,13 @@
 import type { NextConfig } from "next";
 
+const repoName = process.env.GITHUB_REPOSITORY?.split("/")[1] ?? "";
+const isGitHubPages = process.env.GITHUB_ACTIONS === "true" && !!repoName;
+
 const nextConfig: NextConfig = {
-  /* config options here */
   output: 'export',
-  // Deployment for static web page
-    images: {
+  basePath: isGitHubPages ? `/${repoName}` : undefined,
+  assetPrefix: isGitHubPages ? `/${repoName}/` : undefined,
+  images: {
     unoptimized: true,
   },
 };
