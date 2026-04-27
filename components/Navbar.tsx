@@ -8,7 +8,7 @@ export default function Navbar() {
             <div className="logo">
                 {/* nexus<span className="logo-dot"></span>fleet */}
                 {/* Official Image */}
-                <img src="/transoptima.jpg" alt="Transoptima Logo" height={50} width={100} />
+                <Image src="/transoptima.jpg" alt="Transoptima Logo" height={50} width={100} />
             </div>
             <div className="nav-links">
                 <Link href="/#fleet" scroll={true} className="nav-item" style={{ color: '#000000' }}>Fleet</Link>
