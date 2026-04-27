@@ -10,10 +10,6 @@ This is my first project utilizing the Next.js framework, focusing on mastering 
 
     Framework: Next.js (React)
 
-    Styling: Tailwind CSS / CSS Modules
-
-    Deployment: Vercel (or your preferred platform)
-
     Icons/Assets: Lucide React / HeroIcons
 
 ✨ Key Features
@@ -24,35 +20,9 @@ This is my first project utilizing the Next.js framework, focusing on mastering 
 
     Performance First: Leveraging Next.js Image optimization and Server Components for fast load times.
 
-    SEO Optimized: Built with semantic HTML and metadata configurations for better search engine visibility.
-
-🏁 Getting Started
-
-To run this project locally, follow these steps:
-
-    Clone the repository:
-    Bash
-
-    git clone https://github.com/your-username/transoptima-redesign.git
-
-    Install dependencies:
-    Bash
-
-    npm install
-    # or
-    bun install
-
-    Run the development server:
-    Bash
-
-    npm run dev
-    # or
-    bun dev
-
-    Open in your browser:
-    Navigate to http://localhost:3000 to see the result.
-
 📸 Preview
+
+https://rezky2509.github.io/transoptima-web-redesign/
 
 💡 What I Learned
 
