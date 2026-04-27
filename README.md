@@ -1,7 +1,3 @@
-Congratulations on kicking off your first Next.js project! Redesigning a corporate landing page is a fantastic way to dive into the framework's features like server components and optimized image handling.
-
-Since this is for PT Transoptima, the README should balance technical clarity with a professional overview of the redesign's goals.
-GitHub README Template
 PT Transoptima Website Redesign
 
 This repository contains the source code for the modernized landing page of PT Transoptima. This project represents a complete visual and structural overhaul, transitioning from a legacy layout to a high-performance, responsive experience built with Next.js.
@@ -14,10 +10,6 @@ This is my first project utilizing the Next.js framework, focusing on mastering 
 
     Framework: Next.js (React)
 
-    Styling: Tailwind CSS / CSS Modules
-
-    Deployment: Vercel (or your preferred platform)
-
     Icons/Assets: Lucide React / HeroIcons
 
 ✨ Key Features
@@ -28,38 +20,10 @@ This is my first project utilizing the Next.js framework, focusing on mastering 
 
     Performance First: Leveraging Next.js Image optimization and Server Components for fast load times.
 
-    SEO Optimized: Built with semantic HTML and metadata configurations for better search engine visibility.
-
-🏁 Getting Started
-
-To run this project locally, follow these steps:
-
-    Clone the repository:
-    Bash
-
-    git clone https://github.com/your-username/transoptima-redesign.git
-
-    Install dependencies:
-    Bash
-
-    npm install
-    # or
-    bun install
-
-    Run the development server:
-    Bash
-
-    npm run dev
-    # or
-    bun dev
-
-    Open in your browser:
-    Navigate to http://localhost:3000 to see the result.
-
 📸 Preview
 
-(Optional: Add a screenshot of your hero section here to showcase the modern design)
-![Landing Page Preview](./public/preview-screenshot.png)
+https://rezky2509.github.io/transoptima-web-redesign/
+
 💡 What I Learned
 
 As my first Next.js project, I focused on:
