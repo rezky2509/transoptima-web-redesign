@@ -1,7 +1,3 @@
-Congratulations on kicking off your first Next.js project! Redesigning a corporate landing page is a fantastic way to dive into the framework's features like server components and optimized image handling.
-
-Since this is for PT Transoptima, the README should balance technical clarity with a professional overview of the redesign's goals.
-GitHub README Template
 PT Transoptima Website Redesign
 
 This repository contains the source code for the modernized landing page of PT Transoptima. This project represents a complete visual and structural overhaul, transitioning from a legacy layout to a high-performance, responsive experience built with Next.js.
@@ -58,8 +54,6 @@ To run this project locally, follow these steps:
 
 📸 Preview
 
-(Optional: Add a screenshot of your hero section here to showcase the modern design)
-![Landing Page Preview](./public/preview-screenshot.png)
 💡 What I Learned
 
 As my first Next.js project, I focused on:
